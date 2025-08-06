@@ -26,7 +26,7 @@ I'm always open to collaboration or feedback. You can find me here:
 <br>
 
 - GitHub: [syncdecodes](https://github.com/syncdecodes)
- <br>
+- <br>
 - Email: wixved09@gmail.com
  <br>
 
