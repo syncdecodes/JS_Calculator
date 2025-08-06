@@ -29,7 +29,7 @@ I'm always open to collaboration or feedback. You can find me here:
 - <br>
 - Email: wixved09@gmail.com
 - <br>
-=> Project 1 - Calculator live demo: snazzy-bavarois-f3abb6.netlify.app
+
 
 ---
 
