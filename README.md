@@ -29,19 +29,14 @@ I'm always open to collaboration or feedback. You can find me here:
 - <br>
 - Email: wixved09@gmail.com
  <br>
-
-
----
-
-Thanks for visiting, Happy coding!
-<br>
-Author - Dev
 ## 🚀 Live Demo
 
 [🧮 Calculator - Live Demo](https://snazzy-bavarois-f3abb6.netlify.app)
 
+
 ---
 
 Thanks for visiting, Happy coding!
 <br>
 Author - Dev
+
