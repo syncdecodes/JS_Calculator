@@ -21,7 +21,7 @@ This project performs basic arithmetic operations and provides an intuitive inte
 
 - GitHub: [syncdecodes](https://github.com/syncdecodes)
 - <br>
-- Email: wixved09@gmail.com
+- Email: syncdecodes@gmail.com
  <br>
 ## 🚀 Live Demo
 
