@@ -1,28 +1,22 @@
 # PROJECTS
-"🚀 A personal collection of projects showcasing my journey as a developer."
-<br>
-Welcome to my project showcase! This repository is a collection of the projects I've built along my journey as a developer. From frontend experiments to backend builds, you'll find a bit of everything here.
-<br>
-## 📁 Projects
-<br>
-Each project is organized in its own folder with a README.md file that explains:
-<br>
-- 🔧 What it does  
-<br>
-- 📦 Technologies used 
-<br>
-- 🚀 How to run it  
-<br>
-- 🌟 Features or learnings
+🧮 JavaScript Calculator
 <br>
 
-Feel free to explore, fork, or reach out with feedback!
+A simple and responsive calculator built using HTML, CSS, and JavaScript.
+<br>
+This project performs basic arithmetic operations and provides an intuitive interface similar to a standard calculator.
 <br>
 
-## 📫 Contact
+🚀 Features
 <br>
 
-I'm always open to collaboration or feedback. You can find me here:
+=> Addition, subtraction, multiplication, and division
+<br>
+
+=> Clear and reset functionality
+<br>
+
+=> Responsive design (works on desktop & mobile)
 <br>
 
 - GitHub: [syncdecodes](https://github.com/syncdecodes)
