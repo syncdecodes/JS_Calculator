@@ -19,9 +19,9 @@ This project performs basic arithmetic operations and provides an intuitive inte
 => Responsive design (works on desktop & mobile)
 <br>
 
-- GitHub: [syncdecodes](https://github.com/syncdecodes)
-- <br>
-- Email: syncdecodes@gmail.com
+GitHub: [syncdecodes](https://github.com/syncdecodes)
+<br>
+Email: syncdecodes@gmail.com
  <br>
 ## 🚀 Live Demo
 
